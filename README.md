@@ -1,5 +1,6 @@
 Screenshots
 ![alt text](https://github.com/fauzanshidqi21/RepolibRJS/blob/main/screenshoot/Search%20and%20home%20page.PNG)
+![alt text](https://github.com/fauzanshidqi21/RepolibRJS/blob/main/screenshoot/Hasil%20Penulusuran.PNG)
 
 README.md Generator
 
@@ -34,5 +35,14 @@ Features
     You can see your rendered markdown output at the same instance.
 
     Download markdown code direclty with one click.
+Usage
+
+You can use this website to generate readme files in markdown language without actually writing in markdown ;).
+Code Examples
+
+    To run 
+    cd my-app
+    npm start
+
 
 
