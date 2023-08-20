@@ -1,5 +1,8 @@
 Screenshots
+1.Home Page
 ![alt text](https://github.com/fauzanshidqi21/RepolibRJS/blob/main/screenshoot/Search%20and%20home%20page.PNG)
+
+2. Search Results
 ![alt text](https://github.com/fauzanshidqi21/RepolibRJS/blob/main/screenshoot/Hasil%20Penulusuran.PNG)
 
 README.md Generator
