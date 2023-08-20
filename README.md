@@ -1,3 +1,6 @@
+Screenshots
+![alt text](https://github.com/fauzanshidqi21/RepolibRJS/blob/main/screenshoot/Search%20and%20home%20page.PNG)
+
 README.md Generator
 
 Readme.md generator is a React application that takes basic information about the user's project as an input and generates a README file which the user can upload directly in their project's repository.
@@ -30,5 +33,4 @@ Features
     You can see your rendered markdown output at the same instance.
 
     Download markdown code direclty with one click.
-Screenshots
-![alt text](https://github.com/fauzanshidqi21/RepolibRJS/blob/main/screenshoot/Search%20and%20home%20page.PNG)
+
